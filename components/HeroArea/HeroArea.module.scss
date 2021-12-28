@@ -9,10 +9,10 @@
   min-height: 500px;
   background-image: linear-gradient(
       to bottom,
-      rgba(74, 79, 155, 0.32),
-      rgba(38, 60, 37, 1.53)
+      rgba(36, 0, 70, 0.5),
+      rgba(36, 0, 70, 0.32)
     ),
-    url("/banner_mekicat.jpeg");
+    url("/your_banner_here.png");
 
   // background-image: url('/banner.jpg');
   // @media (min-width: 640px) {
@@ -38,7 +38,7 @@
       height: 100%;
       margin: 0;
       object-fit: cover;
-      color: rgba(25,34,49, 0.53);
+      color: rgba(16, 0, 43,1);
     }
   }
 }

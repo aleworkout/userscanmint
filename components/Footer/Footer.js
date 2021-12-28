@@ -18,8 +18,12 @@ const Footer = () => {
         justifyContent="center"
         className={styles._spacing}
       >
-        <Grid item xs={12} md={3} className={styles._logo}>
-          <Image src="/logo.png" height={100} width={200} alt="logo" />
+        <Grid item item
+          md={2}
+          sm={4}
+          lg={2}
+          xs={8} className={styles._logo}>
+          <Image src="/logo.png" height={50} width={50} alt="logo" />
         </Grid>
         <Grid item xs={12} md={6}>
           <Typography
@@ -27,7 +31,7 @@ const Footer = () => {
             align="center"
             style={{ fontWeight: "bold", padding: "0 3px" }}
           >
-            &copy; {new Date().getFullYear()} Meki Cats. All rights
+            &copy; {new Date().getFullYear()} "Name of ur collection". All rights
             reserved.
           </Typography>
         </Grid>

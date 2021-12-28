@@ -110,7 +110,6 @@ const Minter = () => {
               </p>
 
               <form>
-                <h2>Quantity</h2>
                 <input
                   type="number"
                   max="10"
