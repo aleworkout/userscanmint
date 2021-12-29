@@ -46,7 +46,7 @@ const RoadMapConclusion = () => {
               the creator where sky is the limit.
             </p>
             <div className={styles._roadmap_conclusion_button}>
-              <Button>Join our Club</Button>
+              <Button>Launch my NFT</Button>
             </div>
           </div>
         </Grid>

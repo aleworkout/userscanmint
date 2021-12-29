@@ -13,7 +13,7 @@ const TheNewEraEmpireIsComing = () => {
         empire over the world as it had before. Join us now on Discord!
       </p>
 
-      <Button>Let&apos;s build the Empire</Button>
+      <Button>Launch my NFT</Button>
     </div>
   );
 };

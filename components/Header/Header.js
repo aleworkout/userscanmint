@@ -138,7 +138,9 @@ const Header = ({
                     sm={12}
                     style={{ display: "flex", justifyContent: "flex-end" }}
                   >
-                    <Button>Join our Discord</Button>
+                    <Button>
+                      Launch my NFT
+                    </Button>
                   </Grid>
                 </Grid>
               )}
@@ -222,7 +224,7 @@ const Header = ({
                   </ul>
                 </nav>
                 <div>
-                  <Button>Join our Discord</Button>
+                  <Button>Launch my NFT</Button>
                 </div>
               </div>
             )}

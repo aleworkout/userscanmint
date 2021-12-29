@@ -23,7 +23,7 @@ const Intro = () => {
             establish a new empire. Join an ambitious ever-growing community
             with multiple benefits and utilities.
           </p>
-          <Button>Join the Club</Button>
+          <Button>Launch my NFT</Button>
         </div>
         <div className={styles._intro_img}>
           <img src="/intro.png" alt="intro img" />
@@ -55,7 +55,7 @@ const Intro = () => {
             Name of ur collection once more?
           </p>
 
-          <Button>Read the full lore on Discord</Button>
+          <Button>Launch my NFT</Button>
         </div>
       </article>
     </div>
