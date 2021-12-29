@@ -18,7 +18,7 @@ const Footer = () => {
         justifyContent="center"
         className={styles._spacing}
       >
-        <Grid item item
+        <Grid item
           md={2}
           sm={4}
           lg={2}
