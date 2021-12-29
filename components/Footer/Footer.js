@@ -31,7 +31,7 @@ const Footer = () => {
             align="center"
             style={{ fontWeight: "bold", padding: "0 3px" }}
           >
-            &copy; {new Date().getFullYear()} "Name of ur collection". All rights
+            &copy; {new Date().getFullYear()} Name of ur collection. All rights
             reserved.
           </Typography>
         </Grid>

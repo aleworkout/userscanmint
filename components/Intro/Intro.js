@@ -9,16 +9,16 @@ const Intro = () => {
           <h2 className={styles._title}>
             History (WHY) of
             <br />
-            <span>"Name of ur collection"</span>
+            <span>Name of ur collection</span>
           </h2>
           <p>
-            The "Name of ur collection" is a private collection of 2800 "Name of ur collection"
-            NFTs— unique digital collectibles. The "Name of ur collection" are stored as
+            The Name of ur collection is a private collection of 2800 Name of ur collection
+            NFTs— unique digital collectibles. The Name of ur collection are stored as
             ERC-721 tokens on the Ethereum blockchain and hosted on IPFS.
           </p>
           <p>
             With more than 180+ high quality 3D attributes, each NFT is unique
-            and comes with an exclusive access to the "Name of ur collection", a
+            and comes with an exclusive access to the Name of ur collection, a
             group of successful investors that will take over the world and
             establish a new empire. Join an ambitious ever-growing community
             with multiple benefits and utilities.
@@ -37,7 +37,7 @@ const Intro = () => {
         <div className={styles._intro_data}>
           <h2 className={styles._title}>
             (WHAT) is
-            <span> "Name of ur collection"</span>
+            <span> Name of ur collection</span>
           </h2>
           <p>
             Thousands of years after Ancient Japan has fallen, a mysterious
@@ -47,12 +47,12 @@ const Intro = () => {
           </p>
           <p>
             Aliens came out of the portal, it was the long awaited resurgence of
-            the "Name of ur collection". The humanoid Sphynx Cats once revered as
+            the Name of ur collection. The humanoid Sphynx Cats once revered as
             gods have returned to reign and establish a new Era Empire.
           </p>
           <p>
             The question becomes: will the modern-day world worship the Charming
-            "Name of ur collection" once more?
+            Name of ur collection once more?
           </p>
 
           <Button>Read the full lore on Discord</Button>

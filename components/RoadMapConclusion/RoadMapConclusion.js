@@ -41,7 +41,7 @@ const RoadMapConclusion = () => {
           </h2>
           <div className={styles.roadmap_conclusion_details}>
             <p>
-              When you mint a "Name of ur collection" NFT, in addition to being part
+              When you mint a Name of ur collection NFT, in addition to being part
               of that specific community, you have access to an exclusive SPACE of
               the creator where sky is the limit.
             </p>
@@ -82,7 +82,7 @@ export default RoadMapConclusion;
 //   </h2>
 //   <div className={styles.roadmap_conclusion_details}>
 //     <p>
-//       The "Name of ur collection" Club has been around for thousands of years and is
+//       The Name of ur collection Club has been around for thousands of years and is
 //       here to stay to build a new era empire on Earth like they did before.
 //       The New Era Empire Phase has been announced on our Discord Channel.
 //       Check it out there! As always true believers in the Ancients Cats will
